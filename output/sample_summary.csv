@@ -1,0 +1,6 @@
+"","genotype","strain","inductionDelay","libraryDate","harvestDate","replicate","runNumber","index1Sequence","index2Sequence","fastqFileName","timePoint","floodmedia","ST_PIPE","ST_TOTAL_READS","ST_ALIGN_PCT","ST_MUT_FOW","ST_RC_FOM","ST_COV_MED","AUTO_AUDIT","MANUAL_AUDIT","USER","NOTE"
+"1","CBF1",NA,15,"08.26.19","07.24.19",1,3853,"ATGACAG","GACCTT","Brent_12_GTAC_12_SIC_Index_06_TAACAAG_GACCTTGT_S25_L001_R1_001.fastq.gz",15,"SCGal","","","","","","","","","",""
+"2","CBF1",NA,15,"08.26.19","07.24.19",1,3853,"CACCTCC","GACCTT","Brent_13_GTAC_13_SIC_Index_06_GAGGCGT_GACCTTGT_S26_L001_R1_001.fastq.gz",15,"SCGal","","","","","","","","","",""
+"3","CBF1",NA,15,"08.26.19","08.09.19",2,3853,"CCGATTA","GACCTT","Brent_18_GTAC_17_SIC_Index_06_ACTGTCG_GACCTTGT_S31_L001_R1_001.fastq.gz",15,"SCGal","","","","","","","","","",""
+"4","CBF1",NA,15,"08.26.19","08.12.19",3,3853,"GGTCCTC","GACCTT","Brent_6_GTAC_6_SIC_Index_06_TACTCTA_GACCTTGT_S19_L001_R1_001.fastq.gz",15,"SCGal","","","","","","","","","",""
+"5","CBF1",NA,15,"08.26.19","08.12.19",3,3853,"CGGTGGC","GACCTT","Brent_7_GTAC_7_SIC_Index_06_AGACTGA_GACCTTGT_S20_L001_R1_001.fastq.gz",15,"SCGal","","","","","","","","","",""
