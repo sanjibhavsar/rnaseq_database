@@ -1,0 +1,12 @@
+﻿strain,genotype,floodmedia,inductionDelay,treatment,timePoint,replicate,fastqFilePath
+NA,CBF1,SCGal,15,EtoH,-1,1,sequence/run_3853_samplesBrent_10_GTAC_10_SIC_Index_06_GGCAGCG_GACCTTGT_S23_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,Estradiol,-1,1,sequence/run_3853_samplesBrent_11_GTAC_11_SIC_Index_06_CCATCAT_GACCTTGT_S24_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,EtoH,15,1,sequence/run_3853_samplesBrent_12_GTAC_12_SIC_Index_06_TAACAAG_GACCTTGT_S25_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,Estradiol,15,1,sequence/run_3853_samplesBrent_13_GTAC_13_SIC_Index_06_GAGGCGT_GACCTTGT_S26_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,EtoH,90,1,sequence/run_3853_samplesBrent_14_GTAC_14_SIC_Index_06_TTTAACT_GACCTTGT_S27_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,Estradiol,90,1,sequence/run_3853_samplesBrent_15_GTAC_15_SIC_Index_06_GGTCCTC_GACCTTGT_S28_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,EtoH,-1,2,sequence/run_3853_samplesBrent_16_GTAC_16_SIC_Index_06_CGGTGGC_GACCTTGT_S29_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,Estradiol,-1,2,sequence/run_3853_samplesBrent_17_GTAC_18_SIC_Index_06_GTATTTG_GACCTTGT_S30_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,EtoH,15,2,sequence/run_3853_samplesBrent_18_GTAC_17_SIC_Index_06_ACTGTCG_GACCTTGT_S31_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,Estradiol,15,2,sequence/run_3853_samplesBrent_1_GTAC_1_SIC_Index_06_TGAGGTT_GACCTTGT_S14_L001_R1_001.fastq.gz
+NA,CBF1,SCGal,15,EtoH,90,2,sequence/run_3853_samplesBrent_2_GTAC_2_SIC_Index_06_GCTTAGA_GACCTTGT_S15_L001_R1_001.fastq.gz

@@ -1,13 +1,9 @@
 {
-    "timePoint":[15, -1],
-    "treatment":["NULL"],
-    "purpose":["NULL"],
-    "genotype":["NULL"],
-    "inductionDelay":["NULL"],
-    "strain":["NULL"],
-    "floodmedia":["NULL"]
+"timePoint":["15"],
+"treatment":["a"],
+"purpose":["b"],
+"genotype":["c"],
+"inductionDelay":["d"],
+"strain":["e"],
+"floodmedia":["f"]
 }
-
-
-
-
